@@ -1,7 +1,8 @@
-﻿#!/bin/bash
+#!/bin/bash
 
 this is my first git file
 
 中国人民共和国
 
-再次中文
+
+汪汪汪
